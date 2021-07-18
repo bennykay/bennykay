@@ -19,7 +19,7 @@
 <br>
 <br>
 
-## Blog posts
+## Blog-Posts
 <!-- BLOG-POST-LIST:START -->
 - [Review: Affinity Photo](https://nerdchandise.io/blog/review-affinity-photo/)
 - [Lost Horizon 2 im AppStore erhältlich](https://nerdchandise.io/blog/lost-horizon-2-im-appstore-erhaeltlich/)
@@ -28,7 +28,10 @@
 - [Adafruit Trinket mit IR distance sensor](https://nerdchandise.io/blog/adafruit-trinket-mit-ir-distance-sensor/)
 <!-- BLOG-POST-LIST:END -->
 
+➡️ [Weitere Blog-Posts...][blog]
+
 [website-io]: https://nerdchandise.io
 [website-photo]: https://nerdchandise.photo
+[blog]: https://nerdchandise.io/blog/
 [instagram]: https://instagram.com/nerdchandise.photo
 [twitter]: https://twitter.com/benny21mm
