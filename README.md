@@ -43,37 +43,14 @@
 ## Coding Statistiken
 
 <!--START_SECTION:waka-->
-**🐱 My Github Data** 
-
-> 🏆 31 Contributions in the Year 2021
- > 
-> 📦 649.5 kB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 4 Public Repositories 
- > 
-> 🔑 49 Private Repositories  
- > 
-**I'm a Night 🦉** 
+📊 **Diese Woche habe ich meine Zeit damit verbracht** 
 
 ```text
-🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌆 Daytime    23 commits     ██████████░░░░░░░░░░░░░░░   41.82% 
-🌃 Evening    18 commits     ████████░░░░░░░░░░░░░░░░░   32.73% 
-🌙 Night      14 commits     ██████░░░░░░░░░░░░░░░░░░░   25.45%
+💬 Programmiersprachen: 
+Diese Woche wurde keine Aktivität gespeichert
 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
+🔥 Editoren: 
+Diese Woche wurde keine Aktivität gespeichert
 
 ```
 
