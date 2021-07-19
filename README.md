@@ -35,3 +35,8 @@
 [blog]: https://nerdchandise.io/blog/
 [instagram]: https://instagram.com/nerdchandise.photo
 [twitter]: https://twitter.com/benny21mm
+
+## Diese Woche war ich in diesen Sprachen unterwegs
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
