@@ -43,40 +43,21 @@
 ## Coding Statistiken
 
 <!--START_SECTION:waka-->
-**🐱 My Github Data** 
-
-> 🏆 31 Contributions in the Year 2021
- > 
-> 📦 649.5 kB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 4 Public Repositories 
- > 
-> 🔑 49 Private Repositories  
- > 
-**I'm a Night 🦉** 
+📊 **Diese Woche habe ich meine Zeit damit verbracht** 
 
 ```text
-🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌆 Daytime    23 commits     ██████████░░░░░░░░░░░░░░░   41.82% 
-🌃 Evening    18 commits     ████████░░░░░░░░░░░░░░░░░   32.73% 
-🌙 Night      14 commits     ██████░░░░░░░░░░░░░░░░░░░   25.45%
+💬 Programmiersprachen: 
+PHP                      2 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   39.16% 
+Smarty                   1 hr 41 mins        ██████░░░░░░░░░░░░░░░░░░░   25.85% 
+SCSS                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.65% 
+JavaScript               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.65% 
+YAML                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.18%
+
+🔥 Editoren: 
+VS Code                  6 hrs 34 mins       █████████████████████████   100.0%
 
 ```
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-```
-
-
- Last Updated on 19/07/2021
+ Last Updated on 21/07/2021
 <!--END_SECTION:waka-->
