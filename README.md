@@ -43,4 +43,13 @@
 ## Coding Statistiken
 
 <!--START_SECTION:waka-->
+```text
+Week: 06 August, 2021 - 12 August, 2021
+
+JavaScript   3 hrs 58 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.27 % 
+Smarty       3 hrs 30 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.25 % 
+PHP          3 hrs 18 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.95 % 
+Vue.js       1 hr 38 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
+SCSS         55 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+```
 <!--END_SECTION:waka-->
