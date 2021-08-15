@@ -6,7 +6,7 @@
 
 ![](https://stilpunkte.s3.eu-central-1.amazonaws.com/partners_pictures/45741/1586941206_ab5j2dGMTmcsAEYTanF0.jpg)
 
-### Heylo, wird sind die [nerdchandise software factory][website-io] 👋
+### Heylo, wir sind die [nerdchandise software factory][website-io] 👋
 
 [![Website](https://img.shields.io/website?label=nerdchandise.io&style=for-the-badge&url=https%3A%2F%2Fnerdchandise.io)](https://nerdchandise.io)
 
