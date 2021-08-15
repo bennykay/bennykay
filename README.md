@@ -8,7 +8,7 @@
 
 ### Heylo, wir sind die [nerdchandise software factory][website-io] 👋
 
-[![Website](https://img.shields.io/website?label=nerdchandise.io&style=for-the-badge&url=https%3A%2F%2Fnerdchandise.io)](https://nerdchandise.io)
+[![Website](https://img.shields.io/website?label=nerdchandise.io&style=flat-square&url=https%3A%2F%2Fnerdchandise.io)](https://nerdchandise.io)
 
 ### Wir erstellen Webseiten, CMS und Online-Shops
 
@@ -19,11 +19,9 @@
 
 ### Connect with us
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website-io]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br>
+[![Website](https://img.shields.io/badge/-Website-82bb28?style=flat-square&logoColor=ffffff&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI4IiBoZWlnaHQ9IjgiIHZpZXdCb3g9IjAgMCA4IDgiPgogIDxwYXRoIGQ9Ik00IDBjLTIuMjEgMC00IDEuNzktNCA0czEuNzkgNCA0IDQgNC0xLjc5IDQtNC0xLjc5LTQtNC00em0wIDFjLjMzIDAgLjY0LjA5Ljk0LjE5LS4yMS4yLS40NS4zOC0uNDEuNTYuMDQuMTguNjkuMTMuNjkuNSAwIC4yNy0uNDIuMzUtLjEzLjY2LjM1LjM1LS42NC45OC0uNjYgMS40NC0uMDMuODMuODQuOTcgMS41My45Ny40MiAwIC41My4yLjUuNDQtLjU0Ljc3LTEuNDYgMS4yNS0yLjQ3IDEuMjUtLjM4IDAtLjczLS4wOS0xLjA2LS4yMi4yMi0uNDQtLjI4LTEuMzEtLjc1LTEuNTktLjIzLS4yMy0uNzItLjE0LTEtLjI1LS4wOS0uMjctLjE4LS41NC0uMTktLjg0LjAzLS4wNS4wOC0uMDkuMTYtLjA5LjE5IDAgLjQ1LjM4LjU5LjM0LjE4LS4wNC0uNzQtMS4zMS0uMzEtMS41Ni4yLS4xMi42LjM5LjQ3LS4xNi0uMTItLjUxLjM2LS4yOC42Ni0uNDEuMjYtLjExLjQ1LS40MS4xMy0uNTktLjA2LS4wMy0uMTMtLjEtLjIyLS4xOS40NS0uMjcuOTctLjQ0IDEuNTMtLjQ0em0yLjMxIDEuMDljLjE4LjIyLjMyLjQ2LjQ0LjcyIDAgLjAxIDAgLjAyIDAgLjAzLS4wNC4wNy0uMTEuMTEtLjIyLjIyLS4yOC4yOC0uMzItLjIxLS40NC0uMzEtLjEzLS4xMi0uNi4wMi0uNjYtLjEzLS4wNy0uMTguNS0uNDIuODgtLjUzeiIKICAvPgo8L3N2Zz4=)](website-io)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](twitter)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=ffffff)](instagram)
 
 ---
 
