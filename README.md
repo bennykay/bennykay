@@ -15,7 +15,7 @@
 - 🛒 Online-Shops
 - 🔍 Webseiten
 
-### Connect with us
+### 📬 Trete mit uns in Kontakt
 
 [![Website](https://img.shields.io/website?label=Website&labelColor=333333&style=flat-square&url=https%3A%2F%2Fnerdchandise.io&logo=data:image/svg+xml;base64,PHN2ZyBpZD0iZmRmZWJkM2YtOTI0ZC00Nzg3LWI4MmItMmQxNjE5ODI1ODVhIiBkYXRhLW5hbWU9IkViZW5lIDEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjUxMiIgaGVpZ2h0PSI1MTIiIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj4KICA8cGF0aCBkPSJNNDEzLjE2LDMzNC41OTIxdjIyLjE2QTE4Ni42MjUzLDE4Ni42MjUzLDAsMCwxLDEyOS4yODEsMzkzLjA4NjJWMjAxLjc3MjloLTMuNTAxNmMtMi42NjU4LDEyLjU0LTkuMTAxMiw0NS4yNjcxLTkuMTAxMiw2OC45NDM5LDAsMTQuODE3OC4wMTMsMzEuMTcuMDI1OCw0NC40NDgybC4wMTE0LDExLjc4MTVMMTA1LjQyNCwzMzAuMzFsLTE4LjI2NjYsNS40NDA5cS0zLjM4NjItNy4xNTY0LTYuMTc3OS0xNC42MzE2bDE5LjkzODEtNS45Mzg3Yy0uMDEyOS0xMy4yODI4LS4wMjU5LTI5LjY0MDYtLjAyNTktNDQuNDYzNSwwLTMxLjkzNTQsMTAuNjQ2NS03Ny42OSwxMC42NDY1LTc3LjY5YTcuMDQsNy4wNCwwLDAsMSw3LjA0MjUtNy4wNGgyMS40MDA4YTcuMDM3NCw3LjAzNzQsMCwwLDEsNy4wNDE0LDcuMDRzMi4zMzksMTAuMDUzNiw0LjgyNDIsMjQuMDI0OGMuMzMxMywxLjg2MjcuNjY1MiwzLjc5NTIuOTk2Nyw1Ljc4MjguNjYyNSwzLjk3NTIsMS4zMTUyLDguMTcwNywxLjkxNTQsMTIuNDcuMywyLjE1LjU4NzMsNC4zMjU0Ljg1NjMsNi41MTI4cy41Miw0LjM4Ni43NDcyLDYuNTgxNy40MzE1LDQuMzg4Mi42MDY5LDYuNTYzMnEuMTMxNSwxLjYzMTEuMjQxLDMuMjQ3NGMuMjkxLDQuMzA3NS40NTc0LDguNTE1Mi40NTc0LDEyLjUwNzF2MGMwLDQuNDgyMi0uMDAwNyw5LjEwNDktLjAwMjEsMTMuNzQtLjAwMDYsMi4zMTc4LS4wMDE2LDQuNjM5LS4wMDI3LDYuOTQ3NHMtLjAwMjQsNC42MDQyLS4wMDQxLDYuODcxNGw1Ni43ODUxLTE2LjkxNDR2NDIuNTgyN2w4MS42MTQ2LTI0Ljg0MTF2MGgwdjM5LjAzNDRsNjcuNDIzOS0yMS4yOTE0VjM0OC43ODNsNDkuNjc3LTE0LjE5MVoiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAgMCkiIHN0eWxlPSJmaWxsOiAjODJiYjI4Ii8+CiAgPHBhdGggZD0iTTI1My43ODc4LDE5NS4xODA3YzM2LjU2MDYsNjUuNzE2NCwxNDcuOTcsNTAuODQyNCwxNTUuNjgtMzIuMzA1OS0xMS4yMSw1NC4yNzUzLTkyLjEwNTcsOTIuNTQyNS0xMjAuNjYsMS4zNzE0QzI1MS44NTEsNDYuMjQ1LDEyOS45NDI2LDgyLjE1MTUsMTI5LjYyMjksMTc4LjI2NDEsMTUxLjk2MiwxMzMuMTU1OCwyMTYuODM0MiwxMjguNzU3OSwyNTMuNzg3OCwxOTUuMTgwN1oiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAgMCkiIHN0eWxlPSJmaWxsOiAjODJiYjI4Ii8+CiAgPHBhdGggZD0iTTI1NiwwQzExNC44NDExLDAsMCwxMTQuODQxMSwwLDI1NlMxMTQuODQxMSw1MTIsMjU2LDUxMiw1MTIsMzk3LjE1ODksNTEyLDI1NiwzOTcuMTU4OSwwLDI1NiwwWm0wLDQ3MC43MjU4QzEzNy40MSw0NzAuNzI1OCw0MS4yNzQyLDM3NC41OSw0MS4yNzQyLDI1NlMxMzcuNDEsNDEuMjc0MiwyNTYsNDEuMjc0Miw0NzAuNzI1OCwxMzcuNDEsNDcwLjcyNTgsMjU2LDM3NC41OSw0NzAuNzI1OCwyNTYsNDcwLjcyNThaIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwIDApIiBzdHlsZT0iZmlsbDogIzgyYmIyOCIvPgo8L3N2Zz4K)][website-io]
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)][twitter]
@@ -23,7 +23,7 @@
 
 ---
 
-### Blog-Posts
+### 📰 Blog-Posts
 <!-- BLOG-POST-LIST:START -->
 - [Review: Affinity Photo](https://nerdchandise.io/blog/review-affinity-photo/)
 - [Lost Horizon 2 im AppStore erhältlich](https://nerdchandise.io/blog/lost-horizon-2-im-appstore-erhaeltlich/)
@@ -36,7 +36,7 @@
 
 ---
 
-### Languages and Tools 🛠
+### 🛠 Sprachen und Tools 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=F7DF1C&color=FFCE5A)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
@@ -83,7 +83,7 @@
 
 ---
 
-### Coding Statistiken
+### 📈 Coding Statistiken
 
 <!--START_SECTION:waka-->
 ```text
