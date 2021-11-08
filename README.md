@@ -28,7 +28,7 @@
 - [Review: Affinity Photo](https://nerdchandise.io/blog/review-affinity-photo/)
 - [Lost Horizon 2 im AppStore erhältlich](https://nerdchandise.io/blog/lost-horizon-2-im-appstore-erhaeltlich/)
 - [Wie man nano oder vim als Editor für Crontab einstellt](https://nerdchandise.io/blog/wie-man-nano-oder-vim-als-editor-fuer-crontab-einstellt/)
-- [Remote Play für die PlayStation 4 auf dem iPhone & iPad](https://nerdchandise.io/blog/remote-play-fuer-die-playstation-4-auf-dem-iphone-ipad/)
+- [Remote Play für die PlayStation 4 auf dem iPhone &amp; iPad](https://nerdchandise.io/blog/remote-play-fuer-die-playstation-4-auf-dem-iphone-ipad/)
 - [Adafruit Trinket mit IR distance sensor](https://nerdchandise.io/blog/adafruit-trinket-mit-ir-distance-sensor/)
 <!-- BLOG-POST-LIST:END -->
 
