@@ -87,8 +87,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Total: 14 hrs 26 mins
-
 PHP          7 hrs 13 mins   ████████████▒░░░░░░░░░░░░   49.97 % 
 JavaScript   3 hrs 33 mins   ██████░░░░░░░░░░░░░░░░░░░   24.65 % 
 SCSS         1 hr 33 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
