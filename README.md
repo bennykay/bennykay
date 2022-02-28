@@ -80,17 +80,3 @@
 <a href="https://d3js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> 
 <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> 
 -->
-
-# ---
-
-# ### 📈 Coding Statistiken
-
-# <!--START_SECTION:waka-->
-# ```text
-# PHP          7 hrs 42 mins   ██████████████░░░░░░░░░░░   55.48 % 
-# JavaScript   3 hrs 16 mins   ██████░░░░░░░░░░░░░░░░░░░   23.56 % 
-# SCSS         1 hr 42 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
-# JSON         22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
-# Smarty       18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
-# ```
-# <!--END_SECTION:waka-->
