@@ -6,14 +6,14 @@
 
 ![](https://stilpunkte.s3.eu-central-1.amazonaws.com/partners_pictures/45741/1586941206_ab5j2dGMTmcsAEYTanF0.jpg)
 
-## Heylo, wir sind die [nerdchandise software factory][website-io] 👋
+## Heylo, ich bin Benny von der [nerdchandise software factory][website-io] 👋
 
-### Wir erstellen Webseiten, CMS und Online-Shops
+### Ich erstelle Webseiten, CMS und Online-Shops
 
-- 📱 Apps
-- 💣 CMS
-- 🛒 Online-Shops
-- 🔍 Webseiten
+- 📱 [Apps](https://nerdchandise.io/services/apps/)
+- 💣 [CMS](https://nerdchandise.io/services/cms/)
+- 🛒 [Online-Shops](https://nerdchandise.io/services/shop/)
+- 🔍 [Webseiten](https://nerdchandise.io/services/website/)
 
 ### 📬 Trete mit uns in Kontakt
 
