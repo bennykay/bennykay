@@ -25,11 +25,11 @@
 
 ### 📰 Blog-Posts
 <!-- BLOG-POST-LIST:START -->
-- [Review: Affinity Photo](https://nerdchandise.io/blog/review-affinity-photo/)
-- [Lost Horizon 2 im AppStore erhältlich](https://nerdchandise.io/blog/lost-horizon-2-im-appstore-erhaeltlich/)
-- [Wie man nano oder vim als Editor für Crontab einstellt](https://nerdchandise.io/blog/wie-man-nano-oder-vim-als-editor-fuer-crontab-einstellt/)
-- [Remote Play für die PlayStation 4 auf dem iPhone &amp; iPad](https://nerdchandise.io/blog/remote-play-fuer-die-playstation-4-auf-dem-iphone-ipad/)
-- [Adafruit Trinket mit IR distance sensor](https://nerdchandise.io/blog/adafruit-trinket-mit-ir-distance-sensor/)
+- [Überspringen von Zertifikatsüberprüfungen mit Wget](https://nerdchandise.io/blog/ueberspringen-von-zertifikatsueberpruefungen-mit-wget)
+- [Vor- und Nachteile von Responsive Web Design](https://nerdchandise.io/blog/vor-und-nachteile-von-responsive-web-design)
+- [Tipps zur Optimierung der Performance Ihrer Webseite](https://nerdchandise.io/blog/tipps-zur-optimierung-der-performance-ihrer-webseite)
+- [Wie man eine sichere Webseite entwickelt: Best Practices](https://nerdchandise.io/blog/wie-man-eine-sichere-webseite-entwickelt-best-practices)
+- [Die Vorteile von statischen Seiten Generatoren](https://nerdchandise.io/blog/die-vorteile-von-statischen-seiten-generatoren)
 <!-- BLOG-POST-LIST:END -->
 
 [![](https://img.shields.io/badge/-Weitere%20Blogposts-FFA500?style=flat-square&logo=rss&logoColor=ffffff)][blog]
