@@ -25,11 +25,11 @@
 
 ### 📰 Blog-Posts
 <!-- BLOG-POST-LIST:START -->
+- [Woop woop](https://nerdchandise.io/blog/woop-woop)
 - [Warum die Geschwindigkeit Ihrer Webseite für die Suchmaschinenoptimierung entscheidend ist](https://nerdchandise.io/blog/geschwindigkeit-webseite-seo)
 - [Überspringen von Zertifikatsüberprüfungen mit Wget](https://nerdchandise.io/blog/ueberspringen-von-zertifikatsueberpruefungen-mit-wget)
 - [Vor- und Nachteile von Responsive Web Design](https://nerdchandise.io/blog/vor-und-nachteile-von-responsive-web-design)
 - [Tipps zur Optimierung der Performance Ihrer Webseite](https://nerdchandise.io/blog/tipps-zur-optimierung-der-performance-ihrer-webseite)
-- [Wie man eine sichere Webseite entwickelt: Best Practices](https://nerdchandise.io/blog/wie-man-eine-sichere-webseite-entwickelt-best-practices)
 <!-- BLOG-POST-LIST:END -->
 
 [![](https://img.shields.io/badge/-Weitere%20Blogposts-FFA500?style=flat-square&logo=rss&logoColor=ffffff)][blog]
