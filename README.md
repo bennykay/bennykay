@@ -25,11 +25,11 @@
 
 ### 📰 Blog-Posts
 <!-- BLOG-POST-LIST:START -->
+- [Local SEO: Vorteil für euer Unternehmen](https://nerdchandise.io/blog/local-seo-vorteil-fuer-unternehmen)
 - [Moderner Online-Shop mit hoher Skalierbarkeit dank Shopify](https://nerdchandise.io/blog/online-shop-skalierbarkeit-dank-shopify)
 - [Conversion-Optimierungstechniken für Landingpages](https://nerdchandise.io/blog/conversion-optimierungstechniken-fuer-landingpages-ein-umfassender-leitfaden)
 - [Die Bedeutung von responsivem Webdesign für Online-Shops](https://nerdchandise.io/blog/die-bedeutung-von-responsivem-webdesign-fuer-online-shops)
 - [Die Zukunft von Web-Entwicklung?](https://nerdchandise.io/blog/statik-site-generatoren-eine-einfuehrung-und-ihr-potenzial-in-der-modernen-webentwicklung)
-- [Ein Blick auf das Astro SSG Framework](https://nerdchandise.io/blog/ein-blick-auf-astro)
 <!-- BLOG-POST-LIST:END -->
 
 [![](https://img.shields.io/badge/-Weitere%20Blogposts-FFA500?style=flat-square&logo=rss&logoColor=ffffff)][blog]
