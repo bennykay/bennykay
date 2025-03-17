@@ -25,11 +25,11 @@
 
 ### 📰 Blog-Posts
 <!-- BLOG-POST-LIST:START -->
+- [Ein Blick auf die skalierbare Architektur für microservicesbasierte Webanwendungen](https://nerdchandise.io/blog/analyse-der-skalierbaren-architektur-fuer-microservices-2025)
 - [Grundlagen von n8n](https://nerdchandise.io/blog/einfuehrung-in-n8n-automatisierungstool)
 - [Leitfaden zur Auswahl der richtigen Icons für verschiedene Branchen](https://nerdchandise.io/blog/leitfaden-icons-auswahl-branchen)
 - [WordPress vs. Shopify vs. Magento](https://nerdchandise.io/blog/wordpress-vs-shopify-vs-magento-der-grosse-vergleich)
 - [Entdecken Sie, wie Sie APIs effizient und effektiv mit Hoppscotch testen können](https://nerdchandise.io/blog/effizientes-api-testing-mit-hoppscotch)
-- [Die Vorteile von React Native für die schnelle Entwicklung und Bereitstellung von mobilen Apps](https://nerdchandise.io/blog/vorteile-von-react-native-fuer-schnelle-entwicklung-von-mobilen-apps)
 <!-- BLOG-POST-LIST:END -->
 
 [![](https://img.shields.io/badge/-Weitere%20Blogposts-FFA500?style=flat-square&logo=rss&logoColor=ffffff)][blog]
