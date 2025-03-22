@@ -25,11 +25,11 @@
 
 ### 📰 Blog-Posts
 <!-- BLOG-POST-LIST:START -->
+- [Kostenstruktur von Projekten und Kostensenkungen durch React Native](https://nerdchandise.io/blog/kostenoptimierung-durch-react-native-in-softwareprojekten)
 - [Die wichtigsten Vorteile von Progressive Web Apps &lpar;PWAs&rpar; für Unternehmen im Jahr 2025](https://nerdchandise.io/blog/vorteile-von-pwas-fuer-unternehmen-2025)
 - [Die neuen Pebble Smartwatches](https://nerdchandise.io/blog/pebble-smartwatches-core-2-duo-und-time-2)
 - [DeepSeek](https://nerdchandise.io/blog/deepseek-massstab-fuer-innovation-in-ki-welt)
 - [Ein Blick auf die skalierbare Architektur für microservicesbasierte Webanwendungen](https://nerdchandise.io/blog/analyse-der-skalierbaren-architektur-fuer-microservices-2025)
-- [Grundlagen von n8n](https://nerdchandise.io/blog/einfuehrung-in-n8n-automatisierungstool)
 <!-- BLOG-POST-LIST:END -->
 
 [![](https://img.shields.io/badge/-Weitere%20Blogposts-FFA500?style=flat-square&logo=rss&logoColor=ffffff)][blog]
