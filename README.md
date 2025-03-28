@@ -25,11 +25,11 @@
 
 ### 📰 Blog-Posts
 <!-- BLOG-POST-LIST:START -->
+- [Erschaffe magische Welten](https://nerdchandise.io/blog/charakterdesign-im-stil-von-studio-ghibli-mit-chatgpt-4o)
+- [Wie serverlose Architektur die Kosten für Entwicklung und Betrieb von Anwendungen reduzieren kann](https://nerdchandise.io/blog/serverlose-architektur-kostenreduktion)
 - [Die Transformation des E-Commerce durch Augmented Reality](https://nerdchandise.io/blog/e-commerce-augmented-reality-virtuelle-anproben)
 - [Erfolgreiche digitale Transformation durch Low-Code-Entwicklung](https://nerdchandise.io/blog/erfolgreiche-digitale-transformation-mit-low-code)
 - [Die Rolle von Künstlicher Intelligenz in der Sprachsuche](https://nerdchandise.io/blog/kuenstliche-intelligenz-in-der-sprachsuche)
-- [Kostenstruktur von Projekten und Kostensenkungen durch React Native](https://nerdchandise.io/blog/kostenoptimierung-durch-react-native-in-softwareprojekten)
-- [Die wichtigsten Vorteile von Progressive Web Apps &lpar;PWAs&rpar; für Unternehmen im Jahr 2025](https://nerdchandise.io/blog/vorteile-von-pwas-fuer-unternehmen-2025)
 <!-- BLOG-POST-LIST:END -->
 
 [![](https://img.shields.io/badge/-Weitere%20Blogposts-FFA500?style=flat-square&logo=rss&logoColor=ffffff)][blog]
