@@ -25,11 +25,11 @@
 
 ### 📰 Blog-Posts
 <!-- BLOG-POST-LIST:START -->
+- [Die neue Google-Suche](https://nerdchandise.io/blog/neue-google-suche-ki-inhalte)
 - [Vergleich von Claude Sonet 3.7 mit anderen KI-Coding-Agenten und deren Leistungsbenchmark](https://nerdchandise.io/blog/vergleich-claude-sonet-3-7-und-ki-coding-agenten)
 - [TikTok-Shopping](https://nerdchandise.io/blog/tiktok-shopping-umsatz-rekord-usa)
 - [Wie KI-geführte Hyperpersonalisierung den E-Commerce revolutioniert](https://nerdchandise.io/blog/ki-hyperpersonalisierung-im-e-commerce)
 - [Erschaffe magische Welten](https://nerdchandise.io/blog/charakterdesign-im-stil-von-studio-ghibli-mit-chatgpt-4o)
-- [Wie serverlose Architektur die Kosten für Entwicklung und Betrieb von Anwendungen reduzieren kann](https://nerdchandise.io/blog/serverlose-architektur-kostenreduktion)
 <!-- BLOG-POST-LIST:END -->
 
 [![](https://img.shields.io/badge/-Weitere%20Blogposts-FFA500?style=flat-square&logo=rss&logoColor=ffffff)][blog]
