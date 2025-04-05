@@ -25,11 +25,11 @@
 
 ### 📰 Blog-Posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft und deren 50-jährige Historie](https://nerdchandise.io/blog/microsoft-50-jahre-geschichte)
 - [Vibe Coding](https://nerdchandise.io/blog/vibe-coding-zukunft-der-softwareentwicklung)
 - [Die neue Google-Suche](https://nerdchandise.io/blog/neue-google-suche-ki-inhalte)
 - [Vergleich von Claude Sonet 3.7 mit anderen KI-Coding-Agenten und deren Leistungsbenchmark](https://nerdchandise.io/blog/vergleich-claude-sonet-3-7-und-ki-coding-agenten)
 - [TikTok-Shopping](https://nerdchandise.io/blog/tiktok-shopping-umsatz-rekord-usa)
-- [Wie KI-geführte Hyperpersonalisierung den E-Commerce revolutioniert](https://nerdchandise.io/blog/ki-hyperpersonalisierung-im-e-commerce)
 <!-- BLOG-POST-LIST:END -->
 
 [![](https://img.shields.io/badge/-Weitere%20Blogposts-FFA500?style=flat-square&logo=rss&logoColor=ffffff)][blog]
