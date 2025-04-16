@@ -25,11 +25,11 @@
 
 ### 📰 Blog-Posts
 <!-- BLOG-POST-LIST:START -->
+- [10 Linux-Befehle, die jeder Softwareentwickler in der Webentwicklung kennen sollte](https://nerdchandise.io/blog/linux-befehle-fuer-webentwickler)
 - [Die Wichtigkeit der Startseite einer Unternehmenswebseite](https://nerdchandise.io/blog/wichtigkeit-der-startseite-einer-unternehmenswebseite)
 - [Flipper – Das tragbare Multi-Tool für Geeks](https://nerdchandise.io/blog/flipper-tragbares-multi-tool-fuer-geeks)
 - [10 gute Gründe, seine Webseite von einem professionellen Webentwickler entwickeln zu lassen](https://nerdchandise.io/blog/10-gruende-fuer-professionelle-webentwicklung)
 - [10 gute Gründe, warum man seine Arbeitsabläufe digitalisieren sollte](https://nerdchandise.io/blog/gruende-fuer-digitalisierung-von-arbeitsablaeufen)
-- [Zukunft von SEO](https://nerdchandise.io/blog/zukunft-von-seo-und-core-web-vitals)
 <!-- BLOG-POST-LIST:END -->
 
 [![](https://img.shields.io/badge/-Weitere%20Blogposts-FFA500?style=flat-square&logo=rss&logoColor=ffffff)][blog]
