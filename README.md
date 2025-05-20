@@ -25,11 +25,11 @@
 
 ### 📰 Blog-Posts
 <!-- BLOG-POST-LIST:START -->
+- [Barrierefreiheitsstärkungsgesetz in Deutschland – Ein Wegbereiter für Inklusion und Digitalisierung](https://nerdchandise.io/blog/barrierefreiheitsstaerkungsgesetz-in-deutschland)
+- [Interaktive Elemente für mehr Benutzerengagement im Webdesign](https://nerdchandise.io/blog/interaktive-elemente-fuer-mehr-benutzerengagement-im-webdesign)
 - [Trends in der Verwendung von Typografie in der Webentwicklung](https://nerdchandise.io/blog/trends-in-der-typografie-webentwicklung)
 - [Wearables im Alltag 2025](https://nerdchandise.io/blog/wearables-im-alltag-2025)
 - [Implementierung eines Matrix-Effekts im CLI mit Node.js](https://nerdchandise.io/blog/matrix-effekt-im-cli-mit-nodejs)
-- [Vergleich zwischen Mastodon und Blue Sky](https://nerdchandise.io/blog/mastodon-vs-blue-sky)
-- [10 Linux-Befehle, die jeder Softwareentwickler in der Webentwicklung kennen sollte](https://nerdchandise.io/blog/linux-befehle-fuer-webentwickler)
 <!-- BLOG-POST-LIST:END -->
 
 [![](https://img.shields.io/badge/-Weitere%20Blogposts-FFA500?style=flat-square&logo=rss&logoColor=ffffff)][blog]
