@@ -25,11 +25,11 @@
 
 ### 📰 Blog-Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cloudflare und die Beschleunigung von Webseiten: Technische Einblicke, Optimierungstipps und SEO-Standards](https://nerdchandise.io/blog/cloudflare-und-die-beschleunigung-von-webseiten)
 - [GEO und die Webseitenoptimierung für KI-Suchmaschinen – Ein umfassender Leitfaden](https://nerdchandise.io/blog/geo-webseitenoptimierung-fuer-ki-suchmaschinen)
 - [Barrierefreiheit auf Webseiten und Online-Shops](https://nerdchandise.io/blog/barrierefreiheit-auf-webseiten-und-online-shops)
 - [Passkeys - die sichere Alternative zu Passwörtern](https://nerdchandise.io/blog/passkeys-die-sichere-alternative-zu-passwoertern)
 - [Umami - Das Datenschutzfreundliche Analyse Tool](https://nerdchandise.io/blog/umami-das-datenschutzfreundliche-analyse-tool)
-- [Cloudflare und seine Rolle in der Internetsicherheit](https://nerdchandise.io/blog/cloudflare-schuetzt-ihre-online-praesenz)
 <!-- BLOG-POST-LIST:END -->
 
 [![](https://img.shields.io/badge/-Weitere%20Blogposts-FFA500?style=flat-square&logo=rss&logoColor=ffffff)][blog]
