@@ -25,11 +25,11 @@
 
 ### 📰 Blog-Posts
 <!-- BLOG-POST-LIST:START -->
+- [Agent Mode von ChatGPT: Ihr digitaler Helfer für komplexe Aufgaben](https://nerdchandise.io/blog/agent-mode-von-chatgpt-ihr-digitaler-helfer-fuer-komplexe-aufgaben)
 - [KI Führerschein in der EU: Alles was Sie wissen sollten](https://nerdchandise.io/blog/ki-fuehrerschein-in-der-eu-alles-was-sie-wissen-sollten)
 - [Lokal SEO Steigern Sie Ihre lokale Sichtbarkeit mit gezielten Strategien](https://nerdchandise.io/blog/lokal-seo-steigern-sie-ihre-lokale-sichtbarkeit-mit-gezielten-strategien)
 - [Häufige Fehler beim Einsatz von schema.org und deren Vermeidung](https://nerdchandise.io/blog/haeufige-fehler-beim-einsatz-von-schemaorg-und-deren-vermeidung)
 - [Supabase — offene Alternative zu Firebase](https://nerdchandise.io/blog/supabase-als-offene-alternative-zu-firebase)
-- [Generative Bild-KI Revolutioniert Die Kreative Gestaltung](https://nerdchandise.io/blog/generative-bild-ki-revolutioniert-die-kreative-gestaltung)
 <!-- BLOG-POST-LIST:END -->
 
 [![](https://img.shields.io/badge/-Weitere%20Blogposts-FFA500?style=flat-square&logo=rss&logoColor=ffffff)][blog]
