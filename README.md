@@ -26,7 +26,7 @@
 ### 📰 Blog-Posts
 <!-- BLOG-POST-LIST:START -->
 - [Fünf Businessideen für angehende Webentwickler zur Startup-Gründung im Jahr 2026](https://nerdchandise.io/blog/fuenf-businessideen-fuer-webentwickler-2026)
-- [Gemini 3 fuer Unternehmen: Reasoning Suche Workspace](https://nerdchandise.io/blog/gemini-3-fuer-unternehmen-reasoning-suche-workspace)
+- [Gemini 3 für Unternehmen: Reasoning Suche Workspace](https://nerdchandise.io/blog/gemini-3-fuer-unternehmen-reasoning-suche-workspace)
 - [Eleven Labs V3 Fortschrittliche Sprachsynthese für Podcasts](https://nerdchandise.io/blog/eleven-labs-v3-fortschrittliche-sprachsynthese-fuer-podcasts)
 - [Meshtastic Dezentrale Kommunikation mit LoRa Technologie](https://nerdchandise.io/blog/meshtastic-dezentrale-kommunikation-mit-lora-technologie)
 - [Agent Mode von ChatGPT: Ihr digitaler Helfer für komplexe Aufgaben](https://nerdchandise.io/blog/agent-mode-von-chatgpt-ihr-digitaler-helfer-fuer-komplexe-aufgaben)
